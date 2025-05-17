@@ -1,0 +1,5 @@
+theme = catppuccin-latte
+font-size = 16
+background-opacity = 0.9
+background-blur = true
+
